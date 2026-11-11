@@ -5,7 +5,7 @@
 - Trường: Kỹ thuật Công nghệ Nha Trang
 - Họ và tên: Võ Thanh Hoài
 - Lớp: CĐ-CNTT18A
-- Mã sinh viên: [Điền mã sinh viên]
+- Mã sinh viên: CĐ-CNTT18A14
 
 **2. Nội dung thực hiện**
 
